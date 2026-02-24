@@ -1,0 +1,26 @@
+## MODEL PROJECT
+
+Its a simple model project shows that how to creat and controls the model using **HTML**, **CSS** and **JavaScript**.The model open when you click button and close when you click a close icon.
+
+
+## Features
+
+1-   A background image filling a entire screen
+2-   Smooth open and close functionality using JavaScript
+3-   A center card with a button 
+
+---
+
+## TECHNOLOGY USED
+
+1-   **html**            -> for structure
+2-   **css**             -> for styling
+3-   **JS**              -> for adding functionality
+4-   Mountain.jpg        -> a background image
+
+---
+
+## How to run 
+Clone this repository
+```bash
+git Clone:"https://github.com/Amnaakhtar1213/Model-project.git"
